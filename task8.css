@@ -1,0 +1,40 @@
+.parent{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.box1{
+    color: black;
+    background-color:cyan;
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 100px;
+    border-style:solid;
+    border-color: red;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.box2{
+    color:black;
+    background-color: cyan;
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 100px;
+    border-style:solid;
+    border-color: red;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.box3{
+    color:black;
+    background-color:cyan;
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 100px;
+    border-style:solid;
+    border-color: red;
+    box-sizing: border-box;
+    padding: 10px;
+}
